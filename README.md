@@ -1,3 +1,3 @@
 # LeetCode
-Easy Level leetcode python programs
+Easy Level leetcode python programs.
 The LeetCode problem solutions.
