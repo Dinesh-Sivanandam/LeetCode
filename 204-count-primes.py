@@ -17,3 +17,4 @@ if __name__ == "__main__":
     sol = Solution()
     result = sol.countPrimes(10)
     print(result)
+    
