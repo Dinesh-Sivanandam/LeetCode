@@ -10,4 +10,4 @@ class Solution(object):
             num = i
             n -= i
             i+=1
-        return num
+        return num 
