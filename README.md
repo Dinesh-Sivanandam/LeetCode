@@ -10,6 +10,6 @@ I'm keep on solving my problems.<br />
 My codes are easy to understand and it was in my own style.<br />
 I also commented my codes to understand easy.
 # Runtime:
-Mostly my codes works faster than 70% of others solutions.<br />
+Mostly my codes works faster than 85% of others solutions.<br />
 # Running:
 I have posted the solution with the main function. You can use the code directly to get the output. If u need to change the input you can change it in the main function.
